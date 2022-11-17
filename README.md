@@ -1,3 +1,3 @@
-# Hello
+# Hello, let's learn Git
 
-This is demo git for git training
+Learn Git using command line. This is demo git for git training.
